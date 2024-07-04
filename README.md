@@ -1,4 +1,4 @@
-# Generative-modelling-in-Deep-Learning
+# Understanding Generative Models like GAN and VAE in Deep Learning
 
 ## Objective
 
